@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Database Records Viewer</title>
+</head>
+<body>
+    <h1>Database Records Viewer</h1>
+    <form action="/" method="post">
+        <label for="table_name">Enter Table Name:</label>
+        <input type="text" id="table_name" name="table_name" required>
+        <button type="submit">View Records</button>
+    </form>
+
+    <form action="/insert" method="post">
+        <label for="insert_table_name">Insert Into Table:</label>
+        <input type="text" id="insert_table_name" name="insert_table_name" required>
+        <label for="insert_values">Values (comma-separated):</label>
+        <input type="text" id="insert_values" name="insert_values" placeholder="e.g., 1, 'John', 'M', 180, 70" required>
+        <button type="submit">Insert Record</button>
+    </form>
+
+    <form action="/delete" method="post">
+        <label for="delete_table_name">Delete From Table:</label>
+        <input type="text" id="delete_table_name" name="delete_table_name" required>
+        <label for="delete_condition">Condition (e.g., id=10):</label>
+        <input type="text" id="delete_condition" name="delete_condition" required>
+        <button type="submit">Delete Records</button>
+    </form>
+
+    <form action="/update" method="post">
+        <label for="update_table_name">Update Table:</label>
+        <input type="text" id="update_table_name" name="update_table_name" required>
+        <label for="update_set_clause">Set Clause (e.g., name='John')</label>
+        <input type="text" id="update_set_clause" name="update_set_clause" required>
+        <label for="update_condition">Condition (e.g., id=1):</label>
+        <input type="text" id="update_condition" name="update_condition" required>
+        <button type="submit">Update Records</button>
+    </form>
+
+    <form action="/truncate" method="post">
+        <label for="truncate_table_name">Truncate Table:</label>
+        <input type="text" id="truncate_table_name" name="truncate_table_name" required>
+        <button type="submit">Truncate Table</button>
+    </form>
+
+    <form action="/join" method="post">
+        <label for="join_query">Join Query (Enter full SQL Join statement):</label>
+        <input type="text" id="join_query" name="join_query" placeholder="e.g., SELECT * FROM table1 INNER JOIN table2 ON table1.id = table2.id" required>
+        <button type="submit">Execute Join Query</button>
+    </form>
+
+    {% if join_query %}
+        <h3>Executed Join Query:</h3>
+        <p>{{ join_query }}</p>
+    {% endif %}
+
+    {% if error %}
+        <p>Error: {{ error }}</p>
+    {% elif success %}
+        <p>Success: {{ success }}</p>
+    {% endif %}
+
+    {% if records %}
+        <h2>Displaying records from '{{ table_name }}'</h2>
+        <table border="1">
+            <tr>
+                {% for key in records[0].keys() %}
+                    <th>{{ key }}</th>
+                {% endfor %}
+            </tr>
+            {% for record in records %}
+            <tr>
+                {% for value in record.values() %}
+                    <td>{{ value }}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </table>
+    {% else %}
+        <p>No records to display or table name not provided.</p>
+    {% endif %}
+</body>
+</html>
