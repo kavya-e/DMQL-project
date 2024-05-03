@@ -1,0 +1,663 @@
+ID,Name,Sex,Height,Weight
+1,A Dijiang,M,180.0,80.0
+2,A Lamusi,M,170.0,60.0
+5,Christine Jacoba Aaftink,F,185.0,82.0
+6,Per Knut Aaland,M,188.0,75.0
+7,John Aalberg,M,183.0,72.0
+9,Antti Sami Aalto,M,186.0,96.0
+11,Jorma Ilmari Aalto,M,182.0,76.0
+12,Jyri Tapani Aalto,M,172.0,70.0
+13,Minna Maarit Aalto,F,159.0,55.0
+16,Juhamatti Tapio Aaltonen,M,184.0,85.0
+17,Paavo Johannes Aaltonen,M,175.0,64.0
+18,Timo Antero Aaltonen,M,189.0,130.0
+20,Kjetil Andr Aamodt,M,176.0,85.0
+22,Andreea Aanei,F,170.0,125.0
+23,Fritz Aanes,M,187.0,89.0
+30,Pepijn Aardewijn,M,189.0,72.0
+33,Mika Lauri Aarnikka,M,187.0,76.0
+35,Dagfinn Sverre Aarskog,M,190.0,98.0
+36,Stefan Remco Aartsen,M,194.0,78.0
+37,Ann Kristin Aarnes,F,182.0,64.0
+43,Morten Gjerdrum Aasen,M,185.0,75.0
+44,Meelis Aasme,M,182.0,73.0
+46,Hans Aasns,M,194.0,93.0
+47,Erling Rudolf Aastad,M,177.0,74.0
+49,Moonika Aava,F,168.0,65.0
+50,Arvi Aavik,M,185.0,106.0
+51,Nstor Abad Sanjun,M,167.0,64.0
+52,Patrick Abada,M,189.0,80.0
+53,Talaat Abada,M,172.0,58.0
+55,Antonio Abadia Beci,M,170.0,65.0
+57,Borislav Abadzhiev,M,176.0,66.0
+59,Ivan Nikolov Abadzhiev,M,164.0,71.0
+60,Mikhail Abadzhiev,M,172.0,75.0
+61,Stefan Abadzhiev,M,175.0,72.0
+62,Giovanni Abagnale,M,198.0,90.0
+63,Jos Luis Abajo Gmez,M,194.0,87.0
+65,Patimat Abakarova,F,165.0,49.0
+68,Pablo Martn Abal,M,178.0,76.0
+69,Tamara Abalde Daz,F,185.0,72.0
+70,Jess Iory Aball Martnez,M,167.0,65.0
+71,Juan Antonio Aball Delgado,M,172.0,82.0
+72,Aleksey Aleksandrovich Abalmasov,M,180.0,83.0
+73,Luc Abalo,M,182.0,86.0
+74,Mara Laura Abalo,F,182.0,73.0
+75,Giorgos Abalof,M,178.0,70.0
+76,Jouan Patrice Abanda Etong,M,185.0,82.0
+77,Antoine Abang,M,166.0,75.0
+80,Jos Mara Abarca Plotas,M,186.0,83.0
+81,Georgios Abaris,M,190.0,77.0
+82,Enrique Abaroa Martnez,M,183.0,75.0
+84,Stephen Anthony Abas,M,165.0,55.0
+85,Alejandro Abascal Garca,M,181.0,82.0
+86,Jos Manuel Abascal Gmez,M,182.0,67.0
+90,Tamila Rashidovna Abasova,F,163.0,60.0
+91,Emanuele Abate,M,190.0,80.0
+92,Ignazio Abate,M,180.0,73.0
+93,Jol Marc Abati,M,190.0,85.0
+95,Georgia Abatzidou,F,155.0,43.0
+96,Carlos Rodolfo Abaunza Balladares,M,168.0,60.0
+97,Carlos Alberto Abaunza,M,180.0,70.0
+98,Hctor Abaunza,M,169.0,75.0
+99,Pter Abay,M,181.0,79.0
+101,Adeyemi Abayomi,M,170.0,51.0
+105,Ilyas Abbadi,M,175.0,75.0
+106,Agostino Abbagnale,M,188.0,96.0
+107,Carmine Abbagnale,M,182.0,90.0
+108,Giuseppe Abbagnale,M,187.0,97.0
+110,Abubakar Abbas Abbas,M,175.0,66.0
+111,Aqarab Abbas,M,190.0,88.0
+112,Aziz Abbas,M,169.0,67.0
+114,Essa Abbas Faleh Hashem,M,160.0,65.0
+115,Ghulam Abbas,M,181.0,74.0
+117,Maher Abbas,M,178.0,78.0
+118,Mahmoud Abbas,M,165.0,65.0
+120,Mohammed Abbas Sabih,M,170.0,70.0
+121,Muhammad Abbas,M,168.0,55.0
+122,Nader Sufyan Abbas,M,173.0,77.0
+123,Sohail Abbas,M,178.0,80.0
+125,Zulkifli Abbas,M,170.0,62.0
+126,Forough Abbasi,F,164.0,58.0
+127,Shakeel Abbasi,M,165.0,60.0
+128,Soulmaz Abbasi Azad,F,173.0,60.0
+129,Ruslan Abbasov,M,181.0,74.0
+130,Tural Abbasov,M,182.0,76.0
+131,Tran Abbasova,F,159.0,53.0
+132,Simona Abbate,F,171.0,64.0
+134,Christian Abbiati,M,192.0,90.0
+135,Lois Abbingh,F,178.0,72.0
+136,Alessandro Abbio,M,195.0,85.0
+137,Giordano Giulio Abbondati,M,175.0,64.0
+138,Salwan Jasim Abbood Abbood,M,180.0,104.0
+141,Clare Abbott,F,167.0,58.0
+144,Geoffrey Grant Abbott,M,179.0,80.0
+145,Jeremy Abbott,M,175.0,70.0
+146,Jeremy Abbott,M,179.0,71.0
+147,Joanne Abbott,F,160.0,57.0
+149,Mara Katherine Abbott,F,163.0,52.0
+152,Matt Abbott,M,185.0,91.0
+153,Monica Cecilia Abbott,F,191.0,88.0
+154,Khadija Abbouda,F,165.0,57.0
+160,Ali Abdalla Afringi,M,163.0,57.0
+161,Hossam Abdalla,M,203.0,97.0
+165,Nia Nicole Abdallah,F,175.0,56.0
+166,Omari Abdallah,M,168.0,57.0
+168,Younis Abdallah Rabee,M,169.0,68.0
+169,Raida Abdallah Bader,F,158.0,49.0
+170,Maha Abdalsalam Gouda,F,172.0,61.0
+171,Mahmoud Abdel Aziz,M,174.0,70.0
+172,Mohamed Abdel Ellah,M,168.0,68.0
+177,Mohamed Abdel Fattah,M,174.0,69.0
+178,Sayed Abdel Gadir,M,180.0,56.0
+180,Heba Abdel Gawad,F,154.0,48.0
+181,Sara Abdel Gawad,F,153.0,46.0
+184,Ragy Abdel Hady,M,186.0,100.0
+187,Moustafa Ali Abdel Halim,M,152.0,52.0
+188,Mohamed Abdel Hamed,M,193.0,82.0
+196,Mohamed Abdel Khaled,M,183.0,76.0
+197,Abdel Latif Abdel Latif,M,172.0,68.0
+199,Amir Abdel Meguid,M,178.0,67.0
+201,Karim Abdel Mohsen,M,188.0,92.0
+202,Awad Abdel Nabi Awad,M,198.0,80.0
+203,Ahmed Abdel Naeim,M,197.0,87.0
+204,Moustafa Abdel Naser,M,176.0,74.0
+210,Khaled Abdel Rahman,M,188.0,79.0
+212,Yasser Abdel Rahman Sakr,M,180.0,120.0
+213,Samy Abdel Razek,M,170.0,60.0
+215,Ibrahim Ahmed Abdel Rehim,M,190.0,83.0
+216,Kamal Abdel Rehim,M,190.0,95.0
+217,Reskalla Mohamed Abdel Rehim,M,165.0,48.0
+218,Ahmed Ali Abdel Samad,M,195.0,95.0
+222,Mohamed Said Abdel Wehab,M,157.0,48.0
+227,Ahmed Abdelaal,M,188.0,89.0
+228,Mahmoud Abdelaal,M,176.0,60.0
+229,Mohamed Ali Abdelaal,M,175.0,81.0
+232,Ibrahim Ramadan Ibrahim Abdelbaki,M,173.0,77.0
+233,Aziza Abdelfattah,F,159.0,51.0
+236,Ragab Abdelhay Saad Abdelrazek Abdallah,M,170.0,94.0
+238,Mohamed Abdellah,M,170.0,70.0
+239,Ayoub Abdellaoui,M,184.0,68.0
+240,Leila Abdelmoez,F,160.0,46.0
+241,Sayed Abdelmonem Sayed Hamed,M,170.0,60.0
+242,Ahmed Abdelrahman,M,165.0,60.0
+244,Raouf Abdelraouf,M,167.0,63.0
+246,Mamdouh Abdelrehim,M,207.0,90.0
+248,Rda Abdenouz,M,170.0,63.0
+249,Mouni Abderrahim,F,173.0,60.0
+250,Saeid Morad Abdevali,M,170.0,80.0
+251,Bashir Abdi,M,176.0,56.0
+252,Youcef Abdi,M,178.0,66.0
+253,Jamal Abdi Hassan Abdullah,M,177.0,65.0
+254,Talal Omar Abdillahi,M,170.0,57.0
+257,Ali Abdo,M,169.0,74.0
+259,Reema Abdo,F,173.0,59.0
+261,Nasrollah Abdollahi,M,183.0,75.0
+262,Yhyacinthe Mewoli Abdon,M,176.0,60.0
+263,Hassane Abdou,M,185.0,67.0
+264,Justin Abdou,M,175.0,85.0
+266,Raouf Abdou,M,165.0,60.0
+269,Fawziya Abdoulkarim,F,180.0,67.0
+272,Berik Abdrakhmanov,M,165.0,60.0
+273,Maizurah Abdul Rahim,F,147.0,50.0
+275,Bashir Abdullah Abdul Aziz,M,180.0,73.0
+276,Chairil Anwar Abdul Aziz,M,163.0,61.0
+277,Shaimaa Abdul Aziz,F,160.0,53.0
+279,Jefri Kiko Bolkiah Abdul Hakeem,M,172.0,90.0
+280,Mohamed Abdul Hamid,M,175.0,55.0
+282,Hadi Abdul Jabbar,M,180.0,117.0
+283,Mohamed Abed Abdul Jawad,M,169.0,65.0
+287,Taha Abdul Karim,M,156.0,59.0
+289,Abdul Haji Abdul Latheef,M,168.0,54.0
+291,Majed Ahmed Abdul Mohamed,M,172.0,70.0
+292,Firouz Abdul Mohammadian,M,178.0,74.0
+293,Hussam Abdul Rahman,M,175.0,80.0
+295,Suleman Abdul Rahman,M,174.0,55.0
+296,Zambrose Abdul Rahman,M,173.0,64.0
+297,Lala Abdul Rashid,M,169.0,91.0
+298,Muhammad Abdul Rashid,M,181.0,72.0
+305,Samir Ahmed Abdul Shakour,M,180.0,72.0
+310,Patmawati Abdul Wahid,F,158.0,58.0
+315,Mona Ahmad Abdulaziz Hassanein,F,166.0,61.0
+316,Zagalav Abdulbekovich Abdulbekov,M,160.0,62.0
+321,Ahmad Hassan Abdullah,M,164.0,55.0
+322,Ahmed Ghanim Abdullah,M,184.0,79.0
+331,Wan Azlan Abdullah,M,188.0,77.0
+335,Abdulqdir Abdullayev,M,188.0,91.0
+336,Arif Yadulla Abdullayev,M,164.0,60.0
+337,Mukhammad Kadyr Abdullayev,M,169.0,63.0
+338,Muminzhon Abdullayev,M,190.0,130.0
+339,Namiq Yadulla Abdullayev,M,167.0,55.0
+340,Laye Abdullayeva,F,170.0,47.0
+341,lqar Abdulov,M,175.0,74.0
+343,Abir Abdulrahman Khalil Mahmoud Khalil,F,162.0,72.0
+349,Waheed Abdulridha Waheed Karaawi,M,178.0,74.0
+352,Sherzod Abdurahmonov,M,178.0,73.0
+353,Rasul Abduraim,M,183.0,74.0
+354,Bekzod Makhamadzhonovich Abdurakhmonov,M,172.0,74.0
+355,Mukhamadmurod Abdurakhmonov,M,192.0,117.0
+356,Adlan Aliyevich Abdurashidov,M,172.0,60.0
+357,Yusup Abdusalomov,M,170.0,84.0
+359,Andrey Khakimovich Abduvaliyev,M,190.0,125.0
+360,Dzhamolidin Mirgarifanovich Abduzhaparov,M,174.0,72.0
+361,Aybek Abdymomunov,M,162.0,54.0
+362,Isao Ko Abe,M,177.0,75.0
+363,Kazumi Abe,M,178.0,67.0
+364,Kazuo Abe,M,166.0,69.0
+365,Kinya Abe,M,168.0,68.0
+366,Kiyoshi Abe,M,167.0,62.0
+367,Masashi Abe,M,175.0,64.0
+368,Naoki Abe,M,173.0,68.0
+370,Shigeaki Abe,M,178.0,70.0
+371,Shinnosuke Abe,M,179.0,91.0
+373,Tadashi Abe,M,190.0,80.0
+374,Tadatoshi Abe,M,170.0,60.0
+375,Wakako Abe,F,168.0,60.0
+376,Yoshiyuki Abe,M,175.0,67.0
+377,Yuki Abe,M,177.0,75.0
+379,Addis Abebe,M,160.0,50.0
+380,Biruk Abebe,M,173.0,62.0
+381,Benaissa Abed,M,170.0,51.0
+383,Mojtaba Abedini Shormasti,M,180.0,83.0
+386,Alexandre Abeid,M,194.0,92.0
+387,Sonia Abejn Esteban,F,169.0,48.0
+388,Abel Carlos da Silva Braga,M,190.0,73.0
+390,Brooke Abel,F,163.0,52.0
+391,Clarence John Abel,M,185.0,102.0
+393,Gnther Abel,M,183.0,80.0
+394,Irene Abel,F,160.0,48.0
+395,Jennifer Abel,F,160.0,62.0
+396,Katja Abel,F,165.0,55.0
+397,Mara Abel Diguez,F,163.0,46.0
+402,Arthur Abele,M,184.0,85.0
+403,Ruth Abeles,F,153.0,48.0
+405,Jos Javier Abella Fanjul,M,176.0,66.0
+408,Alfonso Abelln Lpez,M,174.0,63.0
+410,Edwige Marie Abna Fouda,F,173.0,61.0
+411,Gezahgne Abera,M,166.0,58.0
+412,Tesfaye Abera Dibaba,M,192.0,68.0
+413,Hugo Ral Aberastegui,M,186.0,84.0
+415,Bjrn Olof Conny berg,M,181.0,76.0
+416,Nils Georg berg,M,181.0,78.0
+417,Sara Helena berg,F,190.0,73.0
+419,Majken berg,F,170.0,60.0
+421,Mohamed Aberhoune,M,187.0,75.0
+423,Michael Brent Abernathy,M,182.0,84.0
+427,Pasqualino Abeti,M,173.0,66.0
+428,Elvan Abeylegesse,F,159.0,40.0
+429,Ruwani Abeymanne,F,160.0,53.0
+430,Matthew Duncan Abeysinghe,M,180.0,74.0
+431,Narek Abgaryan,M,166.0,52.0
+432,Koutoua Francis Abia,M,180.0,80.0
+433,Pablo Abin Vicen,M,177.0,68.0
+434,David Abibssira,M,179.0,63.0
+435,Silke Abicht,F,156.0,46.0
+436,Haithem Abid,M,179.0,72.0
+439,Sagat Abikeyeva,F,160.0,78.0
+440,Mitsuhiro Abiko,M,169.0,62.0
+441,Tomomi Abiko,F,173.0,53.0
+444,Camille Anne Franoise Abily,F,168.0,60.0
+445,Endurance Abinuwa,F,159.0,54.0
+446,Bode Abiodun,M,170.0,68.0
+447,Firmin Abissi,M,159.0,54.0
+448,Sarah Abitbol,F,150.0,43.0
+449,Inga Eduardovna Abitova,F,164.0,58.0
+450,Ceyhun Abiyev,M,163.0,48.0
+451,Diana Monteiro Abla,F,175.0,75.0
+452,Enver Nazymovych Ablaiev,M,169.0,68.0
+455,Denis Mikhaylovich Ablyazin,M,161.0,62.0
+456,Karin Abma,F,174.0,62.0
+457,Thorine Christelle Aboa Mbeza,F,182.0,78.0
+458,Felix Ahmed Aboagye,M,176.0,70.0
+459,Bukola Dammy Abogunloko,F,170.0,53.0
+460,Viktor Andreyevich Aboimov,M,190.0,78.0
+461,Mohamed Aboker,M,175.0,61.0
+462,Ilze bola,F,169.0,60.0
+463,Agnese boltia,F,166.0,60.0
+464,Abdul Razzak Aboobakur,M,168.0,59.0
+468,Abdelhalim Muhammad Abou,M,210.0,88.0
+469,Tarek Abou Al Dahab,M,170.0,64.0
+470,Bachir Hani Abou Assi,M,175.0,74.0
+476,Mohamed Moustafa Abou Elea,M,168.0,54.0
+477,Mahmoud Abou Elelaa,M,181.0,76.0
+479,Zaid Abou Hamed,M,182.0,79.0
+481,Gaber Mooti Abou Zeid,M,187.0,82.0
+485,Sadoon Mohamed Aboub,M,170.0,48.0
+486,Zakaria Aboub,M,171.0,65.0
+488,Ibrahim Mohamedin Aboubaker,M,190.0,65.0
+489,Ahmed Ghmin Aboud,M,170.0,51.0
+490,Fathi Khalifa Aboud,M,175.0,75.0
+491,Kamel Aboud,M,178.0,67.0
+493,Rabah Aboud,M,180.0,64.0
+501,Mohamed Mohamed Mohamed Aboutrika,M,182.0,77.0
+504,Cheryl Abplanalp,F,174.0,68.0
+507,Attila brahm,M,192.0,88.0
+509,Gary Abraham,M,175.0,64.0
+510,Melita Isidora Abraham Schssler,F,170.0,62.0
+511,Tadesse Abraham,M,178.0,61.0
+514,Ara Abrahamian,M,191.0,84.0
+516,Clyde Abrahams,M,178.0,68.0
+517,Glen Abrahams Martnez,M,179.0,72.0
+519,Harold Maurice Abrahams,M,183.0,75.0
+523,Trond Sevg Abrahamsen,M,183.0,87.0
+525,Richard Neal Abrahamson,M,190.0,88.0
+527,Erik Adolf Efraim Abrahamsson,M,172.0,61.0
+528,Karl Gran Abrahamsson,M,180.0,72.0
+530,Ulf Thommy Abrahamsson,M,185.0,81.0
+532,Iason Abramashvili,M,176.0,82.0
+534,Oleksandr Volodymyrovych Abramenko,M,180.0,82.0
+535,Yevgeny Sergeyevich Abramenko,M,181.0,80.0
+538,Jernej Abrami,M,175.0,70.0
+539,Levan Abramishvili,M,181.0,84.0
+540,Andrey Vasilyevich Abramov,M,180.0,100.0
+541,Andrey Viktorovich Abramov,M,176.0,70.0
+542,Nikolay Kuzmich Abramov,M,164.0,59.0
+543,Pavel Sergeyevich Abramov,M,198.0,89.0
+544,Sergey Mikhaylovich Abramov,M,180.0,94.0
+545,Valery Aleksandrovich Abramov,M,173.0,61.0
+546,Inna Vladimirovna Abramova,F,172.0,63.0
+547,Nelli Mikhaylovna Abramova,F,171.0,60.0
+548,Yekaterina Konstantinovna Abramova,F,167.0,65.0
+549,Alen Abramovi,M,180.0,72.0
+550,Dmitry Vladimirovich Abramovich,M,182.0,96.0
+551,Aliyah Abrams,F,163.0,53.0
+552,Colin Winston Abrams,M,180.0,70.0
+554,Benik Abramyan,M,186.0,115.0
+555,Antnio da Cunha Meneses Martins Abrantes,M,176.0,68.0
+556,Arnaldo Lus Isaas Abrantes,M,183.0,72.0
+557,Arnaldo Joaquim Castro Abrantes,M,174.0,68.0
+558,David Abrard,M,187.0,81.0
+560,Amir Abrashi,M,172.0,70.0
+561,Thomas Abratis,M,184.0,73.0
+562,Pawe Abratkiewicz,M,183.0,84.0
+563,Diogo Ferreira Tribolet de Abreu,M,183.0,73.0
+564,Eloy Abreu Morales,M,160.0,54.0
+565,Glauclio Serro Abreu,M,185.0,75.0
+566,Jos Filipe Abreu,M,159.0,64.0
+568,Morais Santos Abreu,M,188.0,73.0
+569,Paulo Francisco Joazeiro de Abreu,M,176.0,78.0
+570,Pedro Abreu Pascal,M,200.0,88.0
+571,Rubn Abreu Rivero,M,177.0,71.0
+572,Rui Pinto de Abreu,M,177.0,64.0
+573,Franck Abrial,M,174.0,68.0
+574,rika Abril Surez,F,164.0,52.0
+575,Laura Valentina Abril Restrepo,F,162.0,50.0
+578,Bourhan Abro,M,180.0,70.0
+579,Anastasiya Aleksandrovna Abrosimova,F,164.0,51.0
+580,Svetlana Olegovna Abrosimova,F,188.0,77.0
+582,Saypulla Atavovich Absaidov,M,168.0,68.0
+583,Julien Absalon,M,180.0,68.0
+584,Ayele Abshero Biza,M,168.0,62.0
+585,Brian Kenneth Abshire,M,180.0,59.0
+586,Tobias Abstreiter,M,178.0,85.0
+587,Gudrun Maria Abt,F,178.0,61.0
+589,Najmeh Abtin,F,160.0,57.0
+590,Mohamed Abu Abdullah,M,173.0,74.0
+593,Methkal Marouf Abu Drais,M,168.0,67.0
+595,Majed Abu Maraheel,M,180.0,76.0
+596,Maher Abu Rmilah,M,172.0,72.0
+599,Bektas Abubakirov,M,165.0,54.0
+600,Nagmeldin Ali Abubakr,M,172.0,63.0
+601,Sanna Abubkheet,F,157.0,52.0
+602,Abudoureheman,M,182.0,75.0
+603,Juma Abudu,M,170.0,59.0
+606,Roberto Abugattas Aboino,M,182.0,77.0
+608,Ahmad Abughaush,M,178.0,68.0
+609,Fartun Abukar Omar,F,170.0,58.0
+611,Mohammed Abukhousa,M,170.0,67.0
+612,Mohammad Abulibdeh,M,183.0,68.0
+613,Kariman Abuljadayel,F,180.0,70.0
+614,Jos Manuel Abundis Sandoval,M,177.0,72.0
+615,Abdullah Abuqrais,M,163.0,65.0
+616,Shigeru Aburaya,M,163.0,51.0
+617,Cristobal Alejandro Aburto Tinoco,M,161.0,60.0
+618,Aleksandr Veniaminovich Abushakhmetov,M,189.0,81.0
+619,Magomedgasan Mingazhutdinovich Abushev,M,170.0,62.0
+620,Kanat Kalizhanovich Abutalipov,M,168.0,56.0
+622,Ali Abuzamia,M,185.0,80.0
+623,Irina Alekseyevna Abysova,F,175.0,56.0
+626,Alain Acart,M,175.0,67.0
+627,Andreea Roxana Acatrinei,F,150.0,40.0
+628,Jacques Accambray,M,194.0,125.0
+629,William Accambray,M,194.0,104.0
+633,Martina Accola,F,170.0,62.0
+634,Paul Accola,M,176.0,82.0
+637,Eusebio Acea Colarte,M,190.0,95.0
+641,Jos Aceituno,M,167.0,58.0
+643,Marco Acerbi,M,190.0,74.0
+644,Claudia Acerenza Marez,F,160.0,55.0
+646,Anibl Santiago Acevedo,M,176.0,67.0
+648,Fabio Acevedo,M,171.0,70.0
+649,Fernando Acevedo Portugues,M,175.0,65.0
+650,Javier Carlos Acevedo,M,182.0,68.0
+651,Jos Eduardo Acevedo Herrera,M,179.0,65.0
+652,Nicole Jocelin Acevedo Tangarife,F,166.0,70.0
+653,Sharon Evelin Acevedo Tangarife,F,170.0,61.0
+654,Daniel Aceves Villagrn,M,158.0,52.0
+655,Roberto Aceves Villagrn,M,165.0,64.0
+656,David Laurence Acfield,M,178.0,73.0
+658,Jaouad Achab,M,175.0,64.0
+660,Karem Faride Achach Ramrez,F,169.0,60.0
+661,Emilio Achacoso,M,178.0,78.0
+663,Sharath Kamal Achanta,M,186.0,85.0
+664,Kieron Robert Achara,M,208.0,110.0
+666,Aziz Acharki,M,180.0,68.0
+668,Gemma Acheampong,F,163.0,54.0
+669,Joachim Yaw Acheampong,M,181.0,73.0
+670,Alfred Achermann,M,176.0,75.0
+671,Ghassan Achi,M,168.0,60.0
+672,Wilson Achia,M,167.0,52.0
+673,Abdel Hak Achik,M,165.0,54.0
+674,Mohamed Abdelhak Achik,M,174.0,57.0
+679,Ioan Valeriu Achiriloaie,M,183.0,87.0
+680,Rita Nikolayevna Achkina,F,168.0,63.0
+681,Janet Achola,F,167.0,52.0
+682,Julius Achon,M,168.0,55.0
+683,Natalie Chioma Achonwa,F,190.0,86.0
+684,Ahmed Mohamed Achouche,M,191.0,110.0
+685,Dallal Merwa Achour,F,176.0,45.0
+686,Khaled Achour,M,177.0,82.0
+689,Roger Achten,M,171.0,62.0
+690,Chantal Achterberg,F,172.0,72.0
+693,Gabriel Achy Assi,M,166.0,61.0
+695,Ricardo Augusto Amaral Acioly,M,179.0,78.0
+698,Paul Douglas Ackerley,M,179.0,68.0
+701,Georg Ackermann,M,191.0,75.0
+702,Ronny Ackermann,M,184.0,69.0
+705,Donat Acklin,M,190.0,99.0
+706,Guido Acklin,M,200.0,104.0
+707,Urban Acman,M,180.0,83.0
+709,Asuncin Acosta Galano,F,169.0,52.0
+710,Bryan Josu Acosta Ramos,M,175.0,74.0
+713,Jos Eugenio Acosta,M,173.0,73.0
+715,Julio Csar Acosta Gonzlez,M,160.0,62.0
+716,Lautaro Germn Acosta,M,168.0,72.0
+717,Leopoldo Acosta,M,185.0,61.0
+718,Luis Angel Acosta,M,180.0,73.0
+719,Luz Mercedes Acosta Valdez,F,164.0,63.0
+721,Mara Jos Acosta Acosta,F,172.0,69.0
+723,Osmay Acosta Duarte,M,188.0,91.0
+724,Pedro Javier Acosta Snchez,M,188.0,78.0
+725,Roslandy del Valle Acosta Alvarado,F,190.0,62.0
+726,Tanya Acosta,F,182.0,70.0
+729,Robert Acquafresca,M,184.0,70.0
+730,Edward Acquah,M,188.0,82.0
+731,Oliver Acquah,M,177.0,82.0
+738,Crox Ernesto Acua Rodrguez,M,192.0,89.0
+739,Jorge Acua,M,173.0,50.0
+742,Roberto Acua,M,208.0,109.0
+743,Arslanbek Aylow,M,177.0,75.0
+745,Kazimierz Piotr Adach,M,162.0,60.0
+746,Goro Adachi,M,156.0,56.0
+747,Kiyoshi Adachi,M,179.0,60.0
+748,Mariko Adachi,F,162.0,51.0
+749,Miho Adachi,F,165.0,58.0
+750,Seiya Adachi,M,172.0,67.0
+751,Takumi Adachi,M,168.0,67.0
+753,Yurie Adachi,F,156.0,51.0
+754,Craig Robert Adair,M,187.0,81.0
+755,Ali Enver Adakan,M,186.0,100.0
+756,Adalberto Pereira da Silva,M,189.0,105.0
+759,Ahmed Adam,M,162.0,60.0
+760,Constantin Adam,M,202.0,105.0
+761,Gal Adam,M,190.0,80.0
+763,Herman Adam Negrete,M,180.0,71.0
+764,Idrissa Adam,M,178.0,79.0
+766,Ji Adam,M,187.0,83.0
+768,Joseph Adam,M,172.0,70.0
+769,Leonie Adam,F,162.0,54.0
+770,Marcus Adam,M,182.0,82.0
+771,Marianne Adam,F,183.0,85.0
+773,Moustafa Adam,M,173.0,71.0
+779,Shuaib Adam,M,175.0,80.0
+780,Tony Adam,M,169.0,61.0
+781,Ahmed Adam Salah,M,154.0,64.0
+782,Samba Adama,M,175.0,82.0
+783,Stefan Adamczak,M,175.0,73.0
+784,Matthias Adamczewski,M,187.0,77.0
+785,Dariusz Adamczuk,M,179.0,78.0
+786,Adam Eucharyst Adamczyk,M,173.0,80.0
+787,Edward Adamczyk,M,190.0,83.0
+788,Lubo Adamec,M,184.0,77.0
+789,Petr Adamec,M,187.0,87.0
+790,Mara Teresa Adames,F,160.0,52.0
+794,Janusz Andrzej Adamiec,M,176.0,74.0
+795,Tomasz Adamiec,M,171.0,69.0
+797,Zoltn Adamik,M,175.0,71.0
+798,Pirouz Adamiyat,M,190.0,80.0
+799,Nafissatou Moussa Adamou,F,172.0,72.0
+800,Georgi Mirchev Adamov,M,173.0,64.0
+801,Tatyana Pavlovna Adamovich,F,163.0,54.0
+802,Tadeusz Ralf Adamowski,M,177.0,70.0
+804,Antoine Xavier Adams,M,180.0,79.0
+809,Brian Adams,M,183.0,67.0
+812,David Dixie Adams,M,188.0,79.0
+821,Keith Adams,M,167.0,75.0
+823,Liam Adams,M,178.0,64.0
+824,Luke Kendall Adams,M,189.0,70.0
+826,Lyukman Rasakovich Adams,M,194.0,87.0
+827,Mareike Adams,F,174.0,73.0
+828,Maureen Adams,F,169.0,68.0
+830,Adrian Neil Adams,M,178.0,78.0
+832,Nicola Virginia Adams,F,164.0,51.0
+833,Odalys Adams Castillo,F,171.0,59.0
+834,Paul Adams,M,185.0,98.0
+836,Platt Adams,M,188.0,78.0
+837,Rachael Alexis Adams,F,188.0,81.0
+838,Ralph Andrew Adams,M,170.0,56.0
+841,Walter Adams,M,172.0,67.0
+847,Morten Gundro Adamsen,M,181.0,84.0
+848,Antoni Adamski,M,179.0,74.0
+849,Filip Kamil Adamski,M,189.0,87.0
+851,Jerzy Adamski,M,171.0,58.0
+853,Per Anders Adamson,M,177.0,68.0
+854,Derrick Adamson,M,177.0,72.0
+856,Per Owe Adamson,M,171.0,65.0
+858,Charles Adamu,M,170.0,81.0
+860,Dariusz Adamus,M,185.0,94.0
+861,Jos Carlos Adn Arias,M,166.0,57.0
+862,Nenita Adan,F,160.0,49.0
+863,Aboukar Hassan Adani,M,165.0,59.0
+864,Yasemin Adar,F,180.0,75.0
+871,Berkane Lakhdar Adda,M,178.0,78.0
+873,Mehdi Addadi,M,179.0,70.0
+876,Jean Renaud Adde,M,181.0,70.0
+877,Yannick Adde,M,195.0,115.0
+878,Hamida Addche,M,164.0,56.0
+879,Corran Descy Addison,M,170.0,65.0
+880,Roy Addison,M,177.0,75.0
+882,Simon Addo,M,180.0,79.0
+887,James Aryee Addy,M,183.0,75.0
+888,Jangy McKinley Addy,M,188.0,88.0
+889,Mercy Addy,F,161.0,58.0
+892,Peter Adeberg,M,185.0,75.0
+894,James Adede,M,162.0,92.0
+896,Olubayo Adefemi,M,181.0,82.0
+897,Lawrence Adegbeingbe,M,181.0,66.0
+901,Amos Ojo Adekunle,M,140.0,48.0
+902,Odunayo Folasade Adekuoroye,F,169.0,53.0
+903,Carolyn Adel,F,163.0,52.0
+906,Peter Adelaar,M,213.0,135.0
+907,Irfan Adelbi,M,185.0,90.0
+909,Andr Adelheim,M,177.0,70.0
+911,Antoine Adelisse,M,178.0,65.0
+912,Beatrice Adelizzi,F,175.0,67.0
+915,Abrar Osman Adem,M,168.0,58.0
+916,Biko Adema,M,177.0,85.0
+917,Joost Adema,M,202.0,91.0
+918,Ademir Roque Kaefer,M,179.0,74.0
+919,Hoche Yaya Aden,M,180.0,47.0
+920,Ibrahim Mohamed Aden Gedi,M,178.0,75.0
+921,Jama Awil Aden,M,176.0,69.0
+922,Jama Mohamed Aden,M,180.0,68.0
+923,Olapade Charles Adeniken,M,186.0,78.0
+924,Aminat Oluwafunmilayo Adeniyi,F,165.0,58.0
+925,Adenzia Aparecida Ferreira da Silva,F,187.0,65.0
+926,Esau Adenji,M,177.0,70.0
+927,Margaret Adetutu Adeoye,F,162.0,65.0
+928,Alfred Ader,M,166.0,60.0
+929,Berhane Adere Debala,F,170.0,50.0
+934,Adeoye Adetunji,M,174.0,71.0
+936,Isiaq Adeyanju,M,162.0,65.0
+938,Cary Glen Adgate,M,173.0,74.0
+939,Kamal Bahadur Adhikari,M,163.0,69.0
+941,Paul Adiga,M,176.0,74.0
+942,Moriam Seun Adigun,F,153.0,52.0
+943,Arman Adikyan,M,168.0,66.0
+944,Haydy Morsy Adil,F,168.0,58.0
+945,Mirza Adil,M,177.0,73.0
+946,Adel Mohamed Adili,M,176.0,65.0
+947,Adilson de Freitas Nascimento,M,195.0,88.0
+948,Hammed Adio,M,185.0,63.0
+951,Evelyn Adiru,F,162.0,50.0
+953,Franck Adisson,M,180.0,70.0
+954,Adiyasambuu Tsolmon,F,165.0,65.0
+959,Christian Donfack Adjoufack,M,175.0,80.0
+963,Derrick Ralph Adkins,M,188.0,80.0
+965,Alan Adler,M,186.0,80.0
+966,Daniel Adler,M,180.0,72.0
+967,Egon Adler,M,172.0,62.0
+970,Lena Kristina Adler,F,162.0,56.0
+971,Uwe Adler,M,182.0,77.0
+979,Hans Adlhoch,M,177.0,70.0
+981,Katrin Adlkofer,F,177.0,62.0
+984,Jane Admans,F,165.0,53.0
+985,Megra Admassou,M,177.0,65.0
+987,Khadour Adnan,M,173.0,81.0
+989,Gadi Ado,M,173.0,61.0
+991,Christopher Silas Adolf,M,168.0,59.0
+993,Ruth Adolf,F,165.0,56.0
+996,Karl Tage Herbert Adolfsson,M,182.0,72.0
+997,Lars Olof Melker Adolfsson,M,183.0,81.0
+998,ke Ronnie Adolfsson,M,180.0,77.0
+999,Sune Roland Adolfsson,M,180.0,74.0
+1000,Dainius Adomaitis,M,202.0,100.0
+1001,Svajnas Adomaitis,M,175.0,55.0
+1002,Daniel Adomako,M,170.0,69.0
+1003,Lena Annika Adomat,F,162.0,56.0
+1004,Aurimas Adomaviius,M,204.0,100.0
+1005,Neil Isaac Adonis,M,182.0,93.0
+1008,Jnos Adorjn,M,192.0,83.0
+1009,William Adornado,M,187.0,77.0
+1011,Omar Adorno,M,160.0,51.0
+1012,Rubn Adorno Melndez,M,190.0,91.0
+1013,Barthelmy Adoukonu,M,160.0,55.0
+1014,Martin Natchaba Adouna,M,167.0,68.0
+1018,Vera Adrian,F,168.0,57.0
+1020,Adriana Aparecida dos Santos,F,180.0,61.0
+1022,Sharnol Leonard Adriana,M,185.0,95.0
+1024,Elisngela Maria Adriano,F,180.0,96.0
+1025,Attila Adrovicz,M,189.0,87.0
+1026,Carlos Adsera Puig,M,173.0,72.0
+1030,Martha Adusei,F,165.0,64.0
+1031,Aduuchiin Baatarkh,M,185.0,82.0
+1032,Serhiy Mykolaiovych Advena,M,190.0,82.0
+1033,Adyaagiin Jgdernamjil,M,154.0,52.0
+1034,Viktoriya Adyeva,F,160.0,55.0
+1035,Erkin Adylbek uulu,M,190.0,80.0
+1036,Olga Olegovna Adzhigerskaya,F,192.0,65.0
+1037,Rustam Iwanovych Adzhy,M,175.0,69.0
+1038,orbergur Aalsteinsson,M,190.0,90.0
+1040,Urs Aeberhard,M,180.0,98.0
+1044,David Aebischer,M,186.0,85.0
+1045,Christian Aebli,M,180.0,95.0
+1046,Klaus Aeffke,M,189.0,82.0
+1048,Eduard Aellig,M,181.0,93.0
+1050,Hansjrg Aemisegger,M,175.0,75.0
+1052,Jasper Aerents,M,191.0,86.0
+1053,Luca Aerni,M,177.0,80.0
+1055,Katrien Aerts,F,162.0,51.0
+1056,Mario Aerts,M,182.0,68.0
+1057,Sara Aerts,F,182.0,64.0
+1058,Andreas Aeschbach,M,178.0,67.0
+1059,Marianne Aeschbacher,F,166.0,50.0
+1060,Marita Aeschbacher,F,173.0,64.0
+1063,Peter Aeschlimann,M,186.0,86.0
+1067,Hamed Afagh Eslamieh,M,188.0,82.0
+1069,Nikolay Konstantinovich Afanasyev,M,187.0,80.0
+1070,Valery Yevgenyevich Afanasyev,M,175.0,79.0
+1071,Kseniya Dmitriyevna Afanasyeva,F,158.0,48.0
+1073,Mustapha Afandi,M,175.0,74.0
+1074,Khairulnizam Mohd Afendy,M,182.0,70.0
+1075,Abel Aferalign,M,169.0,54.0
+1078,Franois Jacques Affolter,M,186.0,74.0
+1079,Konrad Affolter,M,187.0,87.0
+1080,Ahmed Afghan,M,180.0,82.0
+1081,Alessia Afi Dipol,F,168.0,58.0
+1082,Ahmed Afifi,M,194.0,92.0
+1084,Shimaa Afifi,F,163.0,54.0
+1085,Maksim Sergeyevich Afinogenov,M,183.0,88.0
+1086,Madjid Aflaki Khamesh,M,184.0,77.0
+1087,Evelina Afoa,F,162.0,60.0
+1089,Vladimir Afonin,M,189.0,67.0
+1091,Nuno Miguel Figueiredo Afonso,M,190.0,85.0
+1092,Paixo Afonso,M,176.0,80.0
+1093,Marina Anatolyevna Aframeyeva,F,171.0,62.0
+1095,Cecil Sebastian Afrika,M,175.0,75.0
+1096,Hannah Afriyie,F,165.0,52.0
+1097,Georgios Afroudakis,M,194.0,103.0
+1098,Khristos Afroudakis,M,188.0,88.0
+1099,Mehrdad Afsharian Tarshiz,M,172.0,69.0
+1102,Muhammad Afzal,M,169.0,78.0
+1103,Muhammad Afzal,M,184.0,69.0
+1104,Muhammad Afzal Manna,M,173.0,76.0
